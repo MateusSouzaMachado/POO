@@ -1,3 +1,5 @@
+package filme;
+
 import java.util.Scanner;
 
 public class Filme {
@@ -10,17 +12,17 @@ public class Filme {
     int duracaoEmMinutos;
 
 
-        //Metodo imprimir dados do Filme sem retorno void
+        //Metodo imprimir dados do filme.Filme sem retorno void
     public void imprimirDados(){
         //Imprimir todos os dados do filme
 
-        System.out.println("\n***********************\n" + "\n*** Dados do Filme ***");
+        System.out.println("\n***********************\n" + "\n*** Dados do filme.Filme ***");
 
-        System.out.println("\nFilme: " + nome +
+        System.out.println("\nfilme.Filme: " + nome +
                 "\nClassificação: " + classificacao +
-                "\nDuração em minutos: " + duracaoEmMinutos + "m" +
+                "\nDuração em minutos: " + duracaoEmMinutos + " min" +
                 "\nGênero: " + genero +
-                "\nIncluido no Filme: " + incluidoNoPlano);
+                "\nIncluido no filme.Filme: " + incluidoNoPlano);
     }
     public void EditarDados(){
         Scanner ler = new Scanner(System.in);
