@@ -1,4 +1,4 @@
-package carro;
+package exerc2;
 
 public class Main {
     public static void main(String[] args) {

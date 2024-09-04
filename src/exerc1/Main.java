@@ -1,8 +1,7 @@
-package pessoa;
+package exerc1;
 
 public class Main {
     public static void main(String[] args) {
-
 
         Pessoa umaPessoa = new Pessoa();
 
