@@ -1,4 +1,4 @@
-package exerc5;
+package ep1_POO.exerc4;
 
 import java.util.Scanner;
 

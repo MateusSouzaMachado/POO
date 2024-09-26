@@ -1,10 +1,9 @@
-package geteset.idadepessoa;
+package ep1_POO.exerc5;
 
-public class IdadePessoa {
+public class AlunoPOO {
 
     private String nome;
     private int idade;
-    private int MAIORIDADE = 18;
 
     public String getNome() {
         return nome;
@@ -22,11 +21,7 @@ public class IdadePessoa {
         this.idade = idade;
     }
 
-    public void verificarIdade(){
-        if (this.idade >= MAIORIDADE){
-            System.out.println("Você é maior de idade");
-        }else {
-            System.out.println("Você não é mair de idade");
-        }
+    public String exibirDetalhes(){
+        return String.format("Aluno: %s \nIdade: %d", nome, idade);
     }
 }

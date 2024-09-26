@@ -1,4 +1,4 @@
-package exerc1;
+package ep1_POO.exerc1;
 
 public class Main {
     public static void main(String[] args) {

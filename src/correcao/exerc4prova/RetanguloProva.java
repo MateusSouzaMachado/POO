@@ -1,6 +1,6 @@
 package correcao.exerc4prova;
 
-public class Retangulo {
+public class RetanguloProva {
 
     double base;
     double altura;
