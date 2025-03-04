@@ -1,4 +1,4 @@
-package correcao.exerc2prova;
+package prova_correcao.exerc2prova;
 
 public class Pessoa {
 

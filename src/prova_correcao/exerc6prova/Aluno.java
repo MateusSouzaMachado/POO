@@ -1,4 +1,4 @@
-package correcao.exerc6prova;
+package prova_correcao.exerc6prova;
 
 public class Aluno {
 

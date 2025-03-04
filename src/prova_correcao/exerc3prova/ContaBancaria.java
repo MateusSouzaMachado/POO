@@ -1,4 +1,4 @@
-package correcao.exerc3prova;
+package prova_correcao.exerc3prova;
 
 public class ContaBancaria {
 

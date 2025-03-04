@@ -1,4 +1,4 @@
-package correcao.exerc4prova;
+package prova_correcao.exerc4prova;
 
 public class RetanguloProva {
 

@@ -1,4 +1,4 @@
-package correcao.exerc1prova;
+package prova_correcao.exerc1prova;
 
 public class Carro {
 

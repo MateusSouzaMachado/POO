@@ -1,4 +1,4 @@
-package correcao.exerc5prova;
+package prova_correcao.exerc5prova;
 
 public class Livro {
 

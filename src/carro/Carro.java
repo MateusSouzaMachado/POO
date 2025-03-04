@@ -1,4 +1,4 @@
-package exerc2;
+package carro;
 
 import java.util.Scanner;
 
